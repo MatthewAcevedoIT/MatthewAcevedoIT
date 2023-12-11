@@ -18,7 +18,7 @@
 
 <h2> Coding:</h2>
 
-- [To do list app](https://github.com/MatthewAcevedoIT/To-do-list-app)
+- [To-Do List App](https://github.com/MatthewAcevedoIT/To-do-list-app)
 
 
 
