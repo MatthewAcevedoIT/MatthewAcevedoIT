@@ -16,8 +16,8 @@
 
 - [Password Generator](https://github.com/MatthewAcevedoIT/Password-Generator)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MatthewAcevedoIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MatthewAcevedoIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Implementing a SOC and Honeynet in Azure ](https://github.com/MatthewAcevedoIT/Implementing-a-SOC-and-Honeynet-in-Azure)
+  - [Cloud Application ](https://github.com/MatthewAcevedoIT/Cloud-Application)
 
   
 
