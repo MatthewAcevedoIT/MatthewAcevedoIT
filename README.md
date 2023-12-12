@@ -15,7 +15,6 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Password Generator](https://github.com/MatthewAcevedoIT/Password-Generator)
-
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MatthewAcevedoIT/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MatthewAcevedoIT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
