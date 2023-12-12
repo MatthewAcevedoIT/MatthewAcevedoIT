@@ -16,8 +16,8 @@
 
 - [Password Generator](https://github.com/MatthewAcevedoIT/Password-Generator)
 - <b>Microsoft Azure</b>
-  - [Implementing a SOC and Honeynet in Azure ](https://github.com/MatthewAcevedoIT/Implementing-a-SOC-and-Honeynet-in-Azure)
-  - [Cloud Application ](https://github.com/MatthewAcevedoIT/Cloud-Application)
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/MatthewAcevedoIT/Implementing-a-SOC-and-Honeynet-in-Azure)
+  - [Cloud Application](https://github.com/MatthewAcevedoIT/Cloud-Application)
 
   
 
