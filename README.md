@@ -17,6 +17,8 @@
 - [Password Generator](https://github.com/MatthewAcevedoIT/Password-Generator)
 
 - <b>Microsoft Azure</b>
+  - [Password Generator](https://github.com/MatthewAcevedoIT/Password-Generator)
+
   
 
 <h2> Coding:</h2>
