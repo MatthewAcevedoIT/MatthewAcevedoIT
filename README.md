@@ -22,7 +22,7 @@
 
   
 
-<h2> Coding Projects:</h2>
+<h2> Software Development Projects:</h2>
 
 - [To-Do List App](https://github.com/MatthewAcevedoIT/To-do-list-app)
 
